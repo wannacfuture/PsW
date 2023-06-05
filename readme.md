@@ -5,7 +5,7 @@ Laravel 4 Bootstrap Starter Site is a sample application for beginning developme
 
 ## Features
 
-- Bootstrap 3.x, 4.x
+- Bootstrap 3.x, 4.x, 5.x
 - Custom Error Pages
   - 403 for forbidden page accesses
   - 404 for not found pages
