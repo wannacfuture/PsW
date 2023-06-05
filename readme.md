@@ -12,7 +12,7 @@ Laravel 4 Bootstrap Starter Site is a sample application for beginning developme
   - 500 for internal server errors
 - Confide for Authentication and Authorization
 - Back-end
-  - User and Role management
+  - Auth and Role management
   - Manage blog posts and comments
   - WYSIWYG editor for post creation and editing.
     - DataTables dynamic table sorting and filtering.
